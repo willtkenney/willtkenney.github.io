@@ -83,7 +83,7 @@ nav.navbar.navbar-expand-lg {}
 
 .custom_nav-container.navbar-expand-lg .navbar-nav .nav-link {
   padding: 10px 20px;
-  color: #f8d92b;
+  color: #010666;
   text-align: center;
   text-transform: uppercase;
 }
@@ -129,7 +129,7 @@ a:focus {
 .navbar-brand,
 .navbar-brand:hover {
   font-size: 30px;
-  color: #f8d92b;
+  color: #7479cc;
   font-weight: bold;
 }
 
@@ -190,6 +190,7 @@ a:focus {
 
 .hero_section-container .hero_img-box img {
   width: 100%;
+  margin-left: 100px;
 }
 
 .hero_section-container .hero_detail-box {
