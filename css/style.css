@@ -185,6 +185,7 @@ a:focus {
 .hero_section-container .hero_img-box {
   width: 42%;
   margin-top: 5px;
+  margin-left: 30px;
 }
 
 .hero_section-container .hero_img-box img {
