@@ -204,14 +204,14 @@ a:focus {
 }
 
 .hero_section-container .hero_detail-box {
-  width: 58%;
+  width: 100%;
 
 }
 
 .hero_section-container .hero_detail-box .hero_detail-container {
-  padding-left: 180px;
-  padding-bottom: 15px;
-  padding-top: 50px;
+  padding-left: 160px;
+  padding-bottom: 20px;
+  padding-top: 40px;
 }
 
 .hero_section-container .hero_detail-box .hero_detail-container p {
